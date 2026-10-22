@@ -1,0 +1,8 @@
+race,not_readmitted_30d,readmitted_30d,total,pct_readmitted_30d
+AfricanAmerican,17055,2155,19210,11.22
+Asian,576,65,641,10.14
+Caucasian,67507,8592,76099,11.29
+Hispanic,1825,212,2037,10.41
+MISSING ('?'),2085,188,2273,8.27
+Other,1361,145,1506,9.63
+All,90409,11357,101766,11.16

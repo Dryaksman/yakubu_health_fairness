@@ -1,0 +1,10 @@
+column,missing,dtype
+SEQN,0,float64
+RIDRETH3,0,float64
+RIDAGEYR,0,float64
+RIAGENDR,0,float64
+WTMEC2YR,0,float64
+SDMVSTRA,0,float64
+SDMVPSU,0,float64
+BMXBMI,1249,float64
+LBXGH,3209,float64

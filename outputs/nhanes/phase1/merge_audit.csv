@@ -1,0 +1,4 @@
+step,rows_before,rows_after
+start: DEMO_J,9254,9254
+left join BMX_J (BMXBMI),9254,9254
+left join GHB_J (LBXGH),9254,9254

@@ -1,0 +1,8 @@
+item,value
+rows (encounters),101766
+columns,51
+unique encounter_id,101766
+unique patient_nbr,71518
+extra encounters from repeat patients,30248
+readmitted <30 (target = 1),11357
+readmitted NO or >30 (target = 0),90409
