@@ -1,0 +1,8 @@
+Dataset: Diabetes 130-US Hospitals for Years 1999-2008
+URL: https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008
+Date downloaded: [fill in]
+License: [copy it from the UCI page]
+Files obtained: diabetic_data.csv, IDS_mapping.csv
+Participant country: United States (130 hospitals)
+Access limitations: public, no registration
+Notes: original files are never modified

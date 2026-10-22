@@ -1,0 +1,10 @@
+Dataset: South African National Income Dynamics Study (NIDS), Wave 5 (2017)
+Access instructions: https://saldru.uct.ac.za/nids/data-access
+DataFirst study page: https://datafirst.uct.ac.za/dataportal/index.php/catalog/712
+Wave 5 manual: https://saldru.uct.ac.za/nids/wave-5
+Date of access request: [fill in]
+Access status: [pending / approved / blocked, with the date]
+Files obtained: [adult_w5_anon..., indderived_w5_anon..., codebook / user guide]
+Participant country: South Africa
+Access limitations: free account and signed access form (DataFirst); licensed microdata
+IMPORTANT: never upload the raw NIDS files to GitHub. Health outcome must be approved by the supervisor first.

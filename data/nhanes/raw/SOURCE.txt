@@ -1,0 +1,11 @@
+Dataset: CDC NHANES 2017-2018 (cycle J)
+Data catalog: https://wwwn.cdc.gov/nchs/nhanes/search/datapage.aspx?Cycle=2017-2018
+Documentation: DEMO_J https://wwwn.cdc.gov/nchs/data/nhanes/public/2017/datafiles/DEMO_J.htm
+               GHB_J  https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/GHB_J.htm
+Analytic guidelines: https://wwwn.cdc.gov/nchs/nhanes/analyticguidelines.aspx
+Date downloaded: [fill in]
+License / terms: [copy from the CDC page]
+Files obtained: DEMO_J.xpt, BMX_J.xpt, GHB_J.xpt (optional: DIQ_J.xpt)
+Participant country: United States
+Access limitations: public, no registration
+Notes: join on SEQN only; original files are never modified
