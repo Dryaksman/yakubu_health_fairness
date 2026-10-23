@@ -1,0 +1,1 @@
+OK one-to-one: 30110 rows; adults without a group code after the join: 0

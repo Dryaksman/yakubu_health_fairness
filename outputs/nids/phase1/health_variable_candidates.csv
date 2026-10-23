@@ -1,0 +1,61 @@
+column,codebook_label,dtype,valid_answers,special_codes_negative,n_unique_valid
+w5_a_hlser_o,j15_8_o - Other: Other illness 8th answer,object,30110,0,237
+w5_a_hldes,j1 - Respondent's perceived health status,float64,23864,27,5
+w5_a_incdis,f1_2_1 - Recipient of disability grant?,float64,23843,48,2
+w5_a_hlmedaid,j30 - Respondent is covered by medical aid?,float64,23841,50,2
+w5_a_hl30wl,j2_21 - In the last 30 days respondent experienced severe weight loss?,float64,23829,62,2
+w5_a_emodep,k3 - Respondent felt depressed in past week?,float64,23825,66,4
+w5_a_hllfsmk,j22 - Respondent smokes cigarettes?,float64,23816,75,2
+w5_a_hlser,j14 - Respondent has other illness or disability?,float64,23809,82,2
+w5_a_hlcon,j3 - When respondent last consulted someone about their health,float64,23729,162,8
+w5_a_hlstrk,j13_4_2 - Respondent was diagnosed with a stroke?,float64,23668,72,2
+w5_a_hlcan,j13_7_2 - Respondent was diagnosed with cancer?,float64,23667,66,2
+w5_a_bppls_1,n4_1_3 - Blood pressure: Pulse - 1 (bpm),float64,23531,361,110
+w5_a_bpsys_1,n4_1_1 - Blood pressure: Systolic - 1 (SYS.mmHg),float64,23531,361,167
+w5_a_bpdia_1,n4_1_2 - Blood pressure: Diastolic - 1 (DIA.mmHg),float64,23530,362,117
+w5_a_hlhrt,j13_6_2 - Respondent was diagnosed with heart problems?,float64,23517,93,2
+w5_a_bppls_2,n4_2_3 - Blood pressure: Pulse - 2 (bpm),float64,23516,376,107
+w5_a_bpsys_2,n4_2_1 - Blood pressure: Systolic - 2 (SYS.mmHg),float64,23516,376,161
+w5_a_bpdia_2,n4_2_2 - Blood pressure: Diastolic - 2 (DIA.mmHg),float64,23516,376,111
+w5_a_height_1,n1_1 - Height measure one (cm),float64,23443,449,577
+w5_a_height_2,n1_2 - Height measure two (cm),float64,23442,450,587
+w5_a_hlast,j13_5_2 - Respondent was diagnosed with asthma?,float64,23416,113,2
+w5_a_weight_1,n2_1 - Weight measure one (kg),float64,23366,526,1046
+w5_a_weight_2,n2_2 - Weight measure two (kg),float64,23365,527,1046
+w5_a_hldia,j13_3_2 - Respondent was diagnosed with diabetes?,float64,23350,118,2
+w5_a_hltb,j13_1_2 - Respondent was diagnosed with TB?,float64,23184,109,2
+w5_a_hllfhivtst,j29 - Has respondent ever had an HIV test?,float64,23035,72,2
+w5_a_hlbp,j13_2_2 - Respondent was diagnosed with high blood pressure?,float64,22225,76,2
+w5_a_hllfsmkreg,j23 - Respondent smoked cigarettes regularly?,float64,19594,72,2
+w5_a_em1dedmed,eb13_5_1 - Medical Aid deduction from salary?,float64,6941,28,2
+w5_a_hllfsmkfrs,j25 - Age when respondent began to smoke cigarettes,float64,4759,306,52
+w5_a_hlbp_med,j13_2_3 - Respondent is currently taking medication for high blood pressure?,float64,4210,2,2
+w5_a_hlmedpaypid,j31a - PID of person who pays for medical aid,float64,2686,3,695
+w5_a_hlser1,j15_1 - Other illness 1st answer,float64,1697,0,8
+w5_a_hlbp_bf,"j13_2_1 - Our record shows that you had high blood pressure, is that correct?",float64,1587,3,2
+w5_a_hltb_med,j13_1_3 - Respondent is currently taking medication for TB?,float64,1197,1,2
+w5_a_em1dedmed_a,eb13_5_2 - How much was deducted for Medical Aid in the last month?,float64,1156,102,292
+w5_a_hldia_med,j13_3_3 - Respondent is currently taking medication for diabetes?,float64,1149,1,2
+w5_a_hlmedpayr,j31b - Relationship to person who pays for medical aid,float64,1056,2,9
+w5_a_hlast_med,j13_5_3 - Respondent is currently taking medication for asthma?,float64,822,0,2
+w5_a_hllfsmklst,j24 - Age when respondent last smoked cigarettes,float64,797,43,66
+w5_a_incdis_v,f1_2_2 - Amount received from disability grant,float64,622,2,38
+w5_a_hlbp_stl,j13_2_4 - Respondent still has high blood pressure?,float64,541,120,2
+w5_a_hldia_bf,"j13_3_1 - Our record shows that you had diabetes, is that correct?",float64,421,2,2
+w5_a_hlast_bf,"j13_5_1 - Our record shows that you had asthma, is that correct?",float64,359,3,2
+w5_a_hlast_stl,j13_5_4 - Respondent still has asthma?,float64,311,20,2
+w5_a_hlhrt_bf,"j13_6_1 - Our record shows that you had heart problems, is that correct?",float64,280,1,2
+w5_a_hlstrk_med,j13_4_3 - Respondent is currently taking medication for a stroke?,float64,265,0,2
+w5_a_hlcan_bf,"j13_7_1 - Our record shows that you had cancer, is that correct?",float64,158,0,2
+w5_a_hlstrk_bf,"j13_4_1 - Our record shows that you had a stroke, is that correct?",float64,151,0,2
+w5_a_hlser2,j15_2 - Other illness 2nd answer,float64,138,0,7
+w5_a_hlstrk_stl,j13_4_4 - Respondent still experiences the effect of the stroke?,float64,135,0,2
+w5_a_hldia_stl,j13_3_4 - Respondent still has diabetes?,float64,90,17,2
+w5_a_weight_3,n2_3 - Weight measure three (kg),float64,68,0,67
+w5_a_height_3,n1_3 - Height measure three (cm),float64,40,0,38
+w5_a_hlser3,j15_3 - Other illness 3rd answer,float64,10,0,5
+w5_a_hlser8,j15_8 - Other illness 8th answer,float64,0,0,0
+w5_a_hlser7,j15_7 - Other illness 7th answer,float64,0,0,0
+w5_a_hlser6,j15_6 - Other illness 6th answer,float64,0,0,0
+w5_a_hlser5,j15_5 - Other illness 5th answer,float64,0,0,0
+w5_a_hlser4,j15_4 - Other illness 4th answer,float64,0,0,0
