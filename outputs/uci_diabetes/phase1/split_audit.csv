@@ -1,0 +1,4 @@
+split,encounters,patients,pct_readmitted_30d,Caucasian,AfricanAmerican,other_or_missing_race,AfricanAmerican_readmitted_30d,Caucasian_readmitted_30d,patient_overlap_between_splits
+train,69769,48993,11.51,52078,13242,4449,1525,6065,"{""train&val"": 0, ""train&test"": 0, ""val&test"": 0}"
+val,14668,10498,11.06,10902,2797,969,332,1188,
+test,14906,10499,11.15,11240,2733,933,292,1303,

@@ -1,0 +1,17 @@
+{
+  "raw_encounters": 101766,
+  "raw_patients": 71518,
+  "excluded_death_hospice_encounters": 2423,
+  "cleaned_encounters": 99343,
+  "main_cohort_encounters": 92992,
+  "readmitted_30d_cleaned": 11314,
+  "pct_readmitted_30d_cleaned": 11.39,
+  "patients_with_inconsistent_race_label": 249,
+  "n_features_after_encoding": 184,
+  "Caucasian_encounters": 74220,
+  "Caucasian_readmitted_30d": 8556,
+  "Caucasian_pct_readmitted_30d": 11.53,
+  "AfricanAmerican_encounters": 18772,
+  "AfricanAmerican_readmitted_30d": 2149,
+  "AfricanAmerican_pct_readmitted_30d": 11.45
+}

@@ -1,0 +1,6 @@
+step,encounters
+raw encounters,101766
+excluded: discharged dead or to hospice,2423
+"cleaned cohort (all race labels, used for the all-groups audit)",99343
+main two-group cohort (AfricanAmerican + Caucasian),92992
+outside the main cohort (other races and missing race),6351

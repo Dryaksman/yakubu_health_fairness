@@ -1,0 +1,10 @@
+item,value
+rows (encounters),101766
+unique encounter_id,101766
+rows sharing an encounter_id with another row,0
+fully duplicated rows,0
+unique patients (patient_nbr),71518
+patients with more than one encounter,16773
+largest number of encounters for one patient,40
+extra encounters from repeat patients,30248
+patients whose recorded race label differs between encounters,249

@@ -1,0 +1,52 @@
+column,missing_before,pct_before,handling,missing_after_in_inputs
+encounter_id,0,0.0,no missing values,not an input
+patient_nbr,0,0.0,no missing values,not an input
+race,2273,2.23,not a model input; kept as protected attribute (missing labelled 'Missing'),not an input
+gender,0,0.0,no missing values,0
+age,0,0.0,no missing values,not an input
+weight,98569,96.86,dropped (about 97% missing),not an input
+admission_type_id,0,0.0,no missing values,0
+discharge_disposition_id,0,0.0,no missing values,0
+admission_source_id,0,0.0,no missing values,0
+time_in_hospital,0,0.0,no missing values,0
+payer_code,40256,39.56,kept; missing becomes its own category 'Missing'; rare payers grouped using the training set,0
+medical_specialty,49949,49.08,kept; missing becomes 'Missing'; rare specialties grouped using the training set,0
+num_lab_procedures,0,0.0,no missing values,0
+num_procedures,0,0.0,no missing values,0
+num_medications,0,0.0,no missing values,0
+number_outpatient,0,0.0,no missing values,0
+number_emergency,0,0.0,no missing values,0
+number_inpatient,0,0.0,no missing values,0
+diag_1,21,0.02,grouped into diagnosis categories; missing becomes 'Missing',not an input
+diag_2,358,0.35,grouped into diagnosis categories; missing becomes 'Missing',not an input
+diag_3,1423,1.4,grouped into diagnosis categories; missing becomes 'Missing',not an input
+number_diagnoses,0,0.0,no missing values,0
+max_glu_serum,0,0.0,no missing values,0
+A1Cresult,0,0.0,no missing values,0
+metformin,0,0.0,no missing values,0
+repaglinide,0,0.0,no missing values,0
+nateglinide,0,0.0,no missing values,0
+chlorpropamide,0,0.0,no missing values,0
+glimepiride,0,0.0,no missing values,0
+acetohexamide,0,0.0,no missing values,0
+glipizide,0,0.0,no missing values,0
+glyburide,0,0.0,no missing values,0
+tolbutamide,0,0.0,no missing values,0
+pioglitazone,0,0.0,no missing values,0
+rosiglitazone,0,0.0,no missing values,0
+acarbose,0,0.0,no missing values,0
+miglitol,0,0.0,no missing values,0
+troglitazone,0,0.0,no missing values,0
+tolazamide,0,0.0,no missing values,0
+examide,0,0.0,no missing values,not an input
+citoglipton,0,0.0,no missing values,not an input
+insulin,0,0.0,no missing values,0
+glyburide-metformin,0,0.0,no missing values,0
+glipizide-metformin,0,0.0,no missing values,0
+glimepiride-pioglitazone,0,0.0,no missing values,0
+metformin-rosiglitazone,0,0.0,no missing values,not an input
+metformin-pioglitazone,0,0.0,no missing values,0
+change,0,0.0,no missing values,0
+diabetesMed,0,0.0,no missing values,0
+readmitted,0,0.0,no missing values,not an input
+target,0,0.0,no missing values,not an input

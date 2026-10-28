@@ -1,0 +1,5 @@
+step,description,rows_before,rows_after,decision
+cohort,"exclude encounters ending in death or hospice (discharge codes [11, 13, 14, 19, 20, 21])",101766,99343,these patients cannot be readmitted; reported in discharge_disposition_audit.csv
+features,"diagnosis codes grouped, age band converted to midpoint, id codes treated as categories, 'weight' removed",99343,99343,weight dropped (97% missing); race kept outside the inputs
+split,"70/15/15 split by patient_nbr, seed 2026",99343,99343,no patient appears in two partitions
+preprocessing,"median imputation + scaling (numeric), 'Missing' + one-hot (categorical), fitted on the main-cohort training set only",92992,92992,saved as preprocessor_main.joblib
